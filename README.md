@@ -23,12 +23,12 @@ This project is an interactive Power BI dashboard built to analyze Twitter engag
 
 The dashboard consists of six report pages:
 
-1. Tweet Interaction Breakdown by Category**
-2. Engagement Rate Comparison (With vs Without App Opens)**
-3. Media Interaction by Day of the Week**
-4. Replies, Retweets & Likes Comparison**
-5. Monthly Engagement Rate Trend**
-6. Top 10 Tweets by Total Engagement**
+1. Tweet Interaction Breakdown by Category
+2. Engagement Rate Comparison (With vs Without App Opens)
+3. Media Interaction by Day of the Week
+4. Replies, Retweets & Likes Comparison
+5. Monthly Engagement Rate Trend
+6. Top 10 Tweets by Total Engagement
 
 Key Features
 
